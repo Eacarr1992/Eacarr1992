@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eric Carr
+- 👀 I’m interested in python and c++ development
+- 🌱 I’m currently learning python
+- 📫 How to reach me eacarr1992@gmail.com
